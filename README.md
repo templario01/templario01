@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://victorbenaventeyepez.netlify.app/](https://victorbenaventeyepez.netlify.app/)
 
-- 💬 Ask me about **NodeJS // SQL DBs // NoSQL DBs // GraphQL**
+- 💬 Ask me about **NodeJS / NestJS / Jest / SQL / GraphQL**
 
 - 📫 How to reach me **victor@ravn.co**
 
