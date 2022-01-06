@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Ravn](https://www.ravn.co/)
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **React and RxJS**
 
 - 👨‍💻 All of my projects are available at [https://victorbenaventeyepez.netlify.app/](https://victorbenaventeyepez.netlify.app/)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **NodeJS // PostgreSQL // GraphQL**
 
 - 📫 How to reach me **victor@ravn.co**
 
