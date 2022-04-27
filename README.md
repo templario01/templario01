@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and RxJS**
 
-- 👨‍💻 All of my projects are available at [https://victorbenaventeyepez.netlify.app/](https://victorbenaventeyepez.netlify.app/)
+- 👨‍💻 My personal projects are available at [https://victorbenaventeyepez.netlify.app/](https://victorbenaventeyepez.netlify.app/)
 
 - 💬 Ask me about **NodeJS / NestJS / GraphQL / SQL**
 
