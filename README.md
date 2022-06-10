@@ -31,6 +31,6 @@
 
 <div style="display:flex;background-color:white;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=templario01&show_icons=true&locale=en&layout=compact" alt="templario01" /></p>
-<br>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=templario01&" alt="templario01" /></p>
 </div>
