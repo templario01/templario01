@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ravn](https://www.ravn.co/)
 
-- 🌱 I’m currently learning **React and RxJS**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👨‍💻 My personal projects are available at [https://victorbenaventeyepez.netlify.app/](https://victorbenaventeyepez.netlify.app/)
 
