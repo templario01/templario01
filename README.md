@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning <strong>Java Spring & Microservices</strong>  
   
 
-- ❓ Ask me about anything related to <strong> Node.js / RestfullAPIs / Serverless / Nest.js / SQL /React.js</strong>  
+- ❓ Ask me about anything related to <strong> Node.js / RestfulAPIs / Serverless / Nest.js / SQL /React.js</strong>  
   
 
 - 📫 How to reach me vict.benavente@gmail.com  
