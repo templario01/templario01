@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working as NodeJS Developer on Ravn<br>🌱 I’m currently learning Java Spring & Microservices<br>❓ Ask me about anything related to Node.js / RestfulAPIs / Serverless / Nest.js / SQL /React.js<br>📫 How to reach me vict.benavente@gmail.com
+## Hi, I'm Victor Benavente
+<strong>Software Engineer (BSc) - Full-Stack Web Developer</strong>
+
+## 💫 About Me:
+🔭 I’m currently working as <strong>NodeJS Developer</strong> on Ravn<br>🌱 I’m currently learning <strong>Java Spring & Microservices</strong><br>❓ Ask me about anything related to <strong>Node.js / RestfulAPIs / Serverless / Nest.js / SQL /React.js</strong><br>📫 How to reach me vict.benavente@gmail.com
 
 
 ## 🌐 Socials:
