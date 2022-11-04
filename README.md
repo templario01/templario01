@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Benavente Yepez</h1>
-<h3 align="center">Web Developer React / Node.js</h3>
+<h3 align="center">Web Developer React / Node.js / AWS / Serverless</h3>
 
 - 🔭 I’m currently working on [Ravn](https://www.ravn.co/)
 
