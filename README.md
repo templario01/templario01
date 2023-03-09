@@ -2,7 +2,7 @@
 <strong>Software Engineer (BSc) - Full-Stack Web Developer</strong>
 
 ## 💫 About Me:
-🔭 I’m currently working as <strong>NodeJS Developer</strong> on Yape<br>🌱 I’m currently learning <strong>Go & Microservices</strong><br>❓ Ask me about anything related to <strong>Node.js / RestfulAPIs / Serverless / Nest.js / SQL /React.js</strong><br>📫 How to reach me vict.benavente@gmail.com
+🔭 I’m currently working as <strong>NodeJS Developer</strong> on <strong>Yape</strong><br>🌱 I’m currently learning <strong>Go & Microservices</strong><br>❓ Ask me about anything related to <strong>Node.js / RestfulAPIs / Serverless / Nest.js / SQL /React.js</strong><br>📫 How to reach me vict.benavente@gmail.com
 
 
 ## 🌐 Socials:
